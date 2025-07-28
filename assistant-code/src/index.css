@@ -1,0 +1,99 @@
+:root{font-family:system-ui,Avenir,Helvetica,Arial,sans-serif;line-height:1.5;font-weight:400;color-scheme:light dark;color:#ffffffde;background-color:#242424;font-synthesis:none;text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}a{font-weight:500;color:#646cff;text-decoration:inherit}a:hover{color:#535bf2}body{margin:0;display:flex;place-items:center;min-width:320px;min-height:100vh}h1{font-size:3.2em;line-height:1.1}button{border-radius:8px;border:1px solid transparent;padding:.6em 1.2em;font-size:1em;font-weight:500;font-family:inherit;background-color:#1a1a1a;cursor:pointer;transition:border-color .25s}button:hover{border-color:#646cff}button:focus,button:focus-visible{outline:4px auto -webkit-focus-ring-color}@media (prefers-color-scheme: light){:root{color:#213547;background-color:#fff}a:hover{color:#747bff}button{background-color:#f9f9f9}}
+/* === GLOBAL STYLES === */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #f5f7fa;
+    margin: 0;
+    padding: 0;
+    color: #333;
+  }
+  
+  .popup-container {
+    padding: 20px;
+    width: 320px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .popup-title {
+    margin: 0 0 15px;
+    font-size: 18px;
+    color: #1a202c;
+    text-align: center;
+  }
+  
+  .info-box {
+    background-color: #f0f0f0;
+    padding: 8px;
+    font-size: 12px;
+    color: #555;
+    border-radius: 4px;
+    margin-bottom: 10px;
+  }
+  
+  .status-box {
+    padding: 8px;
+    font-size: 12px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+  }
+  
+  .status-success {
+    background-color: #e6f4ea;
+    color: #2e7d32;
+  }
+  
+  .status-error {
+    background-color: #ffeaea;
+    color: #c62828;
+  }
+  
+  .status-neutral {
+    background-color: #f9f9f9;
+    color: #333;
+  }
+  
+  button {
+    width: 100%;
+    padding: 12px;
+    font-size: 14px;
+    font-weight: 500;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-bottom: 10px;
+    transition: background-color 0.2s ease;
+  }
+  
+  .btn-primary {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  .btn-primary:hover {
+    background-color: #45a049;
+  }
+  
+  .btn-secondary {
+    background-color: #2196F3;
+    color: white;
+  }
+  
+  .btn-secondary:hover {
+    background-color: #1976D2;
+  }
+  
+  .btn-disabled {
+    background-color: #ccc;
+    color: #666;
+    cursor: not-allowed;
+  }
+  
+  .footer-note {
+    font-size: 10px;
+    color: #999;
+    text-align: center;
+    margin-top: 12px;
+  }
+  

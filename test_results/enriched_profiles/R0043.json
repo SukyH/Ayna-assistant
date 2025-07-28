@@ -1,0 +1,61 @@
+{
+  "resume_id": "R0043",
+  "content": "SUBSTITUTE TEACHER\nSkills\nOutlook, Excel, Word, PowerPoint, QuickBooks and OneNote\nExperience\n09/2016\n \nto \nCurrent\nSubstitute Teacher\n \nCompany Name\n \n\u00ef\u00bc\u200b \nCity\n \n, \nState\nDesign learning environment to meet educational development objectives.\nResponsible for classroom schedule, subject matter, selection of materials and media, development of learning activities and documentation\nof plans.\nEstablish positive relationships with students, parents, fellow teachers and school administrators/staff.\nProvide regular feedback to parents regarding work and behavior in class.\n09/2015\n \nto \n04/2016\nMaintenance Technician\n \nCompany Name\n \n\u00ef\u00bc\u200b \nCity\n \n, \nState\nManaged 100+ lots and ensured maintenance requests were fulfilled in a timely matter.\nMaintained electrical, plumbing and landscaping.\nInformed management of potentially dangerous electrical equipment and faulty instrumentation.\nRecommended new equipment and maintenance procedures to the facility manager.\n04/2012\n \nto \n06/2014\nSales Associate\n \nCompany Name\n \n\u00ef\u00bc\u200b \nCity\n \n, \nState\nEnthusiastically conversed with customers about purchase needs and available products.\nInquired about buying experience, item preferences and future purchases.\nTracked inventory and prepared for promotions by setting up displays, adding signage, and retagging merchandise.\nRecommended appropriate items and direct or lead customers to selections.\nEducation and Training\nBachelor of Arts\n \n: \nBusiness Administration Management\n \nEastern Oregon University\n \n\u00ef\u00bc\u200b \nCity\n \n, \nState\n \nBusiness Administration Management\nSkills\nbuying experience, documentation, inventory, selection of materials, Excel, Outlook, PowerPoint, Word, plumbing, QuickBooks",
+  "enriched_profile": {
+    "fullName": "SUBSTITUTE TEACHER",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "linkedin": "",
+    "github": "",
+    "portfolio": "",
+    "summary": "Experienced substitute teacher with a background in business administration management. Proficient in Outlook, Excel, Word, PowerPoint, QuickBooks, and OneNote. Skilled in creating learning environments, managing maintenance, and sales.",
+    "education": [
+      {
+        "school": "Eastern Oregon University",
+        "degree": "Bachelor of Arts",
+        "field": "Business Administration Management",
+        "startDate": "04/2012",
+        "endDate": "06/2014",
+        "gpa": ""
+      }
+    ],
+    "experience": [
+      {
+        "company": "Company Name",
+        "position": "Substitute Teacher",
+        "startDate": "09/2016",
+        "endDate": "Present",
+        "description": "Design learning environment to meet educational development objectives. Responsible for classroom schedule, subject matter, selection of materials and media, development of learning activities and documentation of plans. Establish positive relationships with students, parents, fellow teachers and school administrators/staff. Provide regular feedback to parents regarding work and behavior in class."
+      },
+      {
+        "company": "Company Name",
+        "position": "Maintenance Technician",
+        "startDate": "09/2015",
+        "endDate": "04/2016",
+        "description": "Managed 100+ lots and ensured maintenance requests were fulfilled in a timely matter. Maintained electrical, plumbing and landscaping. Informed management of potentially dangerous electrical equipment and faulty instrumentation. Recommended new equipment and maintenance procedures to the facility manager."
+      },
+      {
+        "company": "Company Name",
+        "position": "Sales Associate",
+        "startDate": "",
+        "endDate": "",
+        "description": "Conversed with customers about purchase needs and available products. Inquired about buying experience, item preferences and future purchases. Tracked inventory and prepared for promotions by setting up displays, adding signage, and retagging merchandise. Recommended appropriate items and direct or lead customers to selections."
+      }
+    ],
+    "projects": [],
+    "skills": [
+      "buying experience",
+      "documentation",
+      "inventory",
+      "selection of materials",
+      "Excel",
+      "Outlook",
+      "PowerPoint",
+      "Word",
+      "plumbing",
+      "QuickBooks"
+    ],
+    "licenses": []
+  }
+}

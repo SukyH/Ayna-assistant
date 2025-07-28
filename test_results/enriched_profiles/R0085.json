@@ -1,0 +1,97 @@
+{
+  "resume_id": "R0085",
+  "content": "MECHANICAL ENGINEERING INTERN\nSummary\nCAD | CAM | Finite Element Analysis | Mechanical Design | Product Design and Development\nSkills\n5 years of experience with CAD packages (SolidWorks, Autodesk Inventor, AutoCAD, CATIA, PTC CREO)\n2.5 years of experience with CAE Softwares (HyperMesh, Abaqus, ANSYS, Optistruct)\n2.5 years of experience with Analysis (Linear & Non-linear Static, Dynamic, GD & T, Tolerance Analysis, Design Optimization)\nExperience with Sheet metal, Design for manufacturing, generating Bill of Materials, DFMEA, Sculpting.\nExperience with advanced material selection for rapid prototyping, advanced manufacturing, welding and 3D printing.\nExperience\n09/2013\n \nto \n05/2014\nCompany Name\nFinite Element Analysis of Industrial Robotic Assembly, Illinois Institute of Technology, Chicago \nJan - May 2016.\nConceptualized, brainstormed and designed a 6-axis SCARA Robot for pick and place operation in automotive industry.\nPerformed static analysis with stainless steel 304 to evaluate the maximum load an assembly can lift before yielding.\nAlso, analyzed Gripper and joints to eradicate future failures.\nOptimized design using OptiStruct by varying mesh sizes and element order.\nSimulated assembly with dynamic analysis to find distorted elements and to verify optimized structure.\nReliability Engineering Analysis on Automotive Oil Pump, Illinois Institute of Technology, Chicago \nSept - Dec 2015.\nUsed industrial reliability specifications to select the power consumption and flow rate at three distinct levels of rpm to study its variability.\nImproved system using Taguchi analysis by optimizing signal to noise ratio.\nConducted Failure Mode Effect Analysis (FMEA) to analyze potential causes of failures to deliver clean oil upon demand Abstracted and\ndesigned Near Dry Machine with two inlet nozzles.\nPerformed fluid analysis and actual results on lathe machine.\nProvided vegetable oil as a coolant with pressurized air on flank face of the tool, which resulted in unburnt and recyclable chips.\nGearbox Design, Narsee Monjee Institute of Management Studies, Mumbai \nJan - May 2013.\nDesigned a gear box with different gears such as spur, helical worm by considering seals, lubricating oil and bearings.\nAssigned materials and performed dynamic simulation to define contact surfaces.\n06/2013\n \nto \n08/2013\nMechanical Engineering Intern\n \nCompany Name\nInitiated a project to perform a failure investigation in mufflers due to the low clearance of roads and provided feedback.\nEstablished and coordinated maintenance, GD&T, safety procedures, service schedule and supply of materials in the maintenance shop.\nDeveloped failure reports including feedback based on common failures from the automotive industry.\nSet up and calibrated accelerometers on Hyundai cars to conduct tests to analyze the modes of vibration of vehicle and \nthe steering column.\n05/2012\n \nto \n07/2012\nManufacturing Engineering Intern\n \nCompany Name\nAnalyzed automation, process parameters, different equipment to shape and control the profile of chips and Manufacturing process \nof Hot\nStrip Coil.\nRe-designed the existing shop floor to improve space utilization, increase material flow, optimize labor and reduce holding costs \nby 5% and\nimproved space utilization by 20%.\nPerformed statistical analysis on historical data of the operating parameters using SPC and DOE's to identify significant factors contributing\nto process deviation and affecting the cold crushing strength of the pellet.\nGenerated Bill of Materials and calculated overall manufacturing cost.\nEducation and Training\nMay 2017\nMaster's\n \n: \nMechanical & Aerospace Engineering\n \nIllinois Institute of Technology (IIT)\n \n\u00ef\u00bc\u200b \nCity\n \n, \nState\n \nMechanical & Aerospace Engineering 3.5/4.0\nAdvanced CAD/CAM, Engineering Analysis, Finite Element Analysis, Advanced Manufacturing\nMay 2014\nBachelor of Technology\n \n: \nMechanical Engineering\n \nNarsee Monjee Institute of Management Studies\n \n\u00ef\u00bc\u200b \nCity\n \nIndia\n \nMechanical Engineering 3.19/4.0\nWork History\nCompany Name\nCertifications\nAutodesk Certified Professional in Autodesk Inventor Professional Software. (License # 00313355) *Autodesk Certified Associate in AutoCAD\nSoftware. (License # 00296190)\nPublications\nParekh R., Chaudhary R., Ingle A. (PhD), \"Reliability of Dissimilar Metal Joints using Fusion Welding: A Review\" presented at the International\nConference on Machine learning, Electrical and Mechanical Engineering (ICMLEME'2014), Dubai (UAE)\nSkills\n3D, ANSYS, AutoCAD, automation, Automotive, CAD/CAM, CAD, CATIA, Dec, Engineering Analysis, lathe, Manufacturing process,\nMaterials, material selection, Oil, Optimization, pick, prototyping, Robotic, safety, simulation, SolidWorks, SPC, statistical analysis, welding",
+  "enriched_profile": {
+    "fullName": "John Doe",
+    "email": "",
+    "phone": "",
+    "location": "Chicago, IL",
+    "linkedin": "",
+    "github": "",
+    "portfolio": "",
+    "summary": "5 years of experience with CAD packages (SolidWorks, Autodesk Inventor, AutoCAD, CATIA, PTC CREO). 2.5 years of experience with CAE Softwares (HyperMesh, Abaqus, ANSYS, Optistruct). 2.5 years of experience with Analysis (Linear & Non-linear Static, Dynamic, GD & T, Tolerance Analysis, Design Optimization). Experience with Sheet metal, Design for manufacturing, generating Bill of Materials, DFMEA, Sculpting. Experience with advanced material selection for rapid prototyping, advanced manufacturing, welding and 3D printing.",
+    "education": [
+      {
+        "school": "Illinois Institute of Technology",
+        "degree": "Master's",
+        "field": "Mechanical & Aerospace Engineering",
+        "startDate": "May 2017",
+        "endDate": "",
+        "gpa": "3.5/4.0"
+      },
+      {
+        "school": "Narsee Monjee Institute of Management Studies",
+        "degree": "Bachelor of Technology",
+        "field": "Mechanical Engineering",
+        "startDate": "May 2014",
+        "endDate": "",
+        "gpa": "3.19/4.0"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Company Name",
+        "position": "Mechanical Engineering Intern",
+        "startDate": "06/2013",
+        "endDate": "08/2013",
+        "description": "Initiated a project to perform a failure investigation in mufflers due to the low clearance of roads and provided feedback. Established and coordinated maintenance, GD&T, safety procedures, service schedule and supply of materials in the maintenance shop. Developed failure reports including feedback based on common failures from the automotive industry. Set up and calibrated accelerometers on Hyundai cars to conduct tests to analyze the modes of vibration of vehicle and the steering column."
+      },
+      {
+        "company": "Company Name",
+        "position": "Finite Element Analysis of Industrial Robotic Assembly",
+        "startDate": "09/2013",
+        "endDate": "05/2014",
+        "description": "Conceptualized, brainstormed and designed a 6-axis SCARA Robot for pick and place operation in automotive industry. Performed static analysis with stainless steel 304 to evaluate the maximum load an assembly can lift before yielding. Also, analyzed Gripper and joints to eradicate future failures. Optimized design using OptiStruct by varying mesh sizes and element order. Simulated assembly with dynamic analysis to find distorted elements and to verify optimized structure."
+      },
+      {
+        "company": "Illinois Institute of Technology, Chicago",
+        "position": "Reliability Engineering Analysis on Automotive Oil Pump",
+        "startDate": "Jan - May 2016",
+        "endDate": "",
+        "description": "Used industrial reliability specifications to select the power consumption and flow rate at three distinct levels of rpm to study its variability. Improved system using Taguchi analysis by optimizing signal to noise ratio. Conducted Failure Mode Effect Analysis (FMEA) to analyze potential causes of failures to deliver clean oil upon demand Abstracted and designed Near Dry Machine with two inlet nozzles. Performed fluid analysis and actual results on lathe machine. Provided vegetable oil as a coolant with pressurized air on flank face of the tool, which resulted in unburnt and recyclable chips."
+      }
+    ],
+    "projects": [],
+    "skills": [
+      "3D",
+      "ANSYS",
+      "AutoCAD",
+      "automation",
+      "Automotive",
+      "CAD/CAM",
+      "CAD",
+      "CATIA",
+      "Dec",
+      "Engineering Analysis",
+      "lathe",
+      "Manufacturing process",
+      "Materials",
+      "material selection",
+      "Oil",
+      "Optimization",
+      "pick",
+      "prototyping",
+      "Robotic",
+      "safety",
+      "simulation",
+      "SolidWorks",
+      "SPC",
+      "statistical analysis",
+      "welding"
+    ],
+    "licenses": [
+      {
+        "title": "Autodesk Certified Professional in Autodesk Inventor Professional Software",
+        "description": "",
+        "issueDate": "License # 00313355",
+        "expiryDate": ""
+      },
+      {
+        "title": "Autodesk Certified Associate in AutoCAD Software",
+        "description": "",
+        "issueDate": "License # 00296190",
+        "expiryDate": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "resume_id": "R0101",
+  "content": "CUSTOMER ADVOCATE\nCareer Overview\nObjective\n \u00c2 \nTo secure an Administrative Specialist/Office Manager position and use my expertise and proven skills in order to positively contribute to the\nefficient operation as well as the reputation of the business\nAbility Summary\n \u00c2 \nOutstanding customer service skills: proven success in client needs assessment, providing reassurance and customized solutions, and ensuring\nhighest level of customer satisfaction attainable.\nTechnologically savvy: \nproficient in Microsoft Office Suite (Outlook, Money, Excel, Wordperfect 12), Quatro Pro, Peachtree Accounting,\nTimeslips 2007, Dictation, ITI Banking Software; expert knowledge in Cellular Technology and troubleshooting skills for smartphones, basic cell\nphones and wireless network connection\nProven success in call center environment: \nseasoned in operating call center equipment and technology; \nexcellent interpersonal communication skills\nin oral and written formats\nHighly skilled as a secretary: \nadept at accounts receivable and payable duties, routine correspondence, and handling confidential client information\nDemonstrated loyalty and dedication to company's missions\nFormally educated in illustration, photography, and basic graphic design\nSkill Highlights\nMicrosoft Office Suite\nPeachtree Accounting\nSpreadsheet development\nSchedule management\nTelephone Skills\nScheduling\nTravel booking\nMinute Taking\nCustomer Service\nCritical Thinking\nCreative Problem Solving\nCellular Expert\nTroubleshooting Smartphones\nTroubleshooting Network Connections\nTroubleshooting Internet and Wi-Fi Connections\nCore Accomplishments\nCalendaring\n \u00c2 \nPlanned all meetings and travel for CEO.\nProcess Improvement\n \u00c2 \nOversaw implementation of new phone system which resulted in more cost-effective service.\nResearch\n \u00c2 \nInvestigated and analyzed client complaints to identify and resolve issues.\nMultitasking\n \u00c2 \nDemonstrated proficiencies in telephone, e-mail, fax and front-desk reception within high-volume environment.\nCustomer Service\n \u00c2 \nHandled customers effectively by identifying needs, quickly gaining trust, approaching complex situations and resolving problems to\nmaximize efficiency.\nPayroll Assistance\n \u00c2 \nAssisted with payroll preparation and entered data into cumulative payroll document.\nProfessional Experience\nCustomer Advocate\n \nSeptember 2007\n \nto \nMarch 2015\n \nCompany Name\n \n- \nCity\n \n, \nState\nAnswered a high volume of incoming calls in a national call center from current and prospective customers as well as sales associates\nActively listened to each client to ensure complete understanding of their concerns and provided innovative and individualized solutions\nConducted complex problem solving and made sure each client obtained resolution, reassurance and positive customer service experience\nat the end of their phone calls\nAccessed client account database to retrieve information and update changes, all the while maintaining personable and professional phone\nconversations with customers\nFlexibly adjusted communication styles to each caller, particularly in terms of their level of familiarity with cellular technology and service\nstructures, to ensure that they understood instructions, policies and procedures\nAdministered device-related troubleshooting\nKept records of customer interactions or transactions, recording details of inquiries, complaints, or comments, as well as actions taken\nMaintained up-to-date knowledge of constantly changing services and products, in order to provide customers with the accurate information\nand best solutions.\nLegal Secretary\n \nJanuary 2006\n \nto \nMay 2007\n \nCompany Name\n \n- \nCity\n \n, \nState\nPrepared court documents, deeds, real estate transfer statements, purchase agreements, contracts, power of attorney, wills, and routine\ncorrespondence\nPerformed accounting duties including accounts receivable, accounts payable, entry of time slips, monthly billing, payroll, payroll taxes, and\nbalancing of trust accounts and estates\nGreeted clients and offered them seats as they waited, updating them of their appointment status\nScheduled appointments for clients, administering reminders for both clients and lawyers\nEnsured the office was well-stocked with supplies and organized for the maximum efficiency.\nAdministrative Assistant/Customer Service Rep\n \nAugust 2005\n \nto \nJanuary 2006\n \nCompany Name\n \n- \nCity\n \n, \nState\nI worked directly with the President of Doane College and the Chief Financial Officer to schedule and plan meetings and events, put together\nmaterials for the fall board meeting, took minutes, handled board member inquiries, booked travel arrangements and created itinerary for work\ntrips.\nRetail Banking Representative II\n \nJune 2002\n \nto \nAugust 2003\n \nCompany Name\n \n- \nCity\n \n, \nState\nI provided excellent customer service, assisting customers with account inquiries via phone and in person\nOpened accounts, solved problems and cross-sold financial products\nScanned checks, daily balancing of my drawer, the ATM, vault and tot",
+  "enriched_profile": {
+    "fullName": "Customer Advocate",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "linkedin": "",
+    "github": "",
+    "portfolio": "",
+    "summary": "Secure an Administrative Specialist/Office Manager position and positively contribute to the efficient operation and reputation of the business. Proven success in client needs assessment, providing reassurance and customized solutions, ensuring the highest level of customer satisfaction. Technologically savvy with expertise in Microsoft Office Suite, Peachtree Accounting, Cellular Technology, and call center environment. Highly skilled as a secretary, demonstrated loyalty, and dedication to company's missions. Formally educated in illustration, photography, and basic graphic design.",
+    "education": [
+      {
+        "school": "Doane College",
+        "degree": "Bachelor of Arts",
+        "field": "Fine Art and Biology",
+        "startDate": "1981",
+        "endDate": "1985",
+        "gpa": "3.44"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Company Name",
+        "position": "Customer Advocate",
+        "startDate": "September 2007",
+        "endDate": "March 2015",
+        "description": "Answered a high volume of incoming calls in a national call center from current and prospective customers as well as sales associates. Conducted complex problem solving and made sure each client obtained resolution, reassurance and positive customer service experience at the end of their phone calls."
+      },
+      {
+        "company": "Company Name",
+        "position": "Legal Secretary",
+        "startDate": "January 2006",
+        "endDate": "May 2007",
+        "description": "Prepared court documents, deeds, real estate transfer statements, purchase agreements, contracts, power of attorney, wills, and routine correspondence. Performed accounting duties including accounts receivable, accounts payable, entry of time slips, monthly billing, payroll, payroll taxes, and balancing of trust accounts and estates."
+      },
+      {
+        "company": "Company Name",
+        "position": "Administrative Assistant/Customer Service Rep",
+        "startDate": "August 2005",
+        "endDate": "January 2006",
+        "description": "Worked directly with the President of Doane College and the Chief Financial Officer to schedule and plan meetings and events, put together materials for the fall board meeting, took minutes, handled board member inquiries, booked travel arrangements and created itinerary for work trips."
+      }
+    ],
+    "projects": [],
+    "skills": [
+      "Microsoft Office Suite",
+      "Peachtree Accounting",
+      "Customer Service",
+      "Telephone Skills",
+      "Scheduling",
+      "Travel booking",
+      "Minute Taking",
+      "Cellular Expert",
+      "Troubleshooting Smartphones",
+      "Troubleshooting Network Connections",
+      "Troubleshooting Internet and Wi-Fi Connections",
+      "Spreadsheet development",
+      "Schedule management",
+      "Creative Problem Solving",
+      "Payroll Assistance",
+      "Multitasking",
+      "Research",
+      "Process Improvement",
+      "Calendaring"
+    ],
+    "licenses": []
+  }
+}

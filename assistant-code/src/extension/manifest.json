@@ -1,0 +1,43 @@
+{
+  "name": "Smart Job Assistant",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "A smart Chrome extension to help users build profiles, match jobs, auto-apply, and autofill.",
+  "permissions": [
+    "scripting", 
+    "tabs", 
+    "storage", 
+    "activeTab"
+  ],
+  "host_permissions": [
+    "*://*.linkedin.com/*",
+    "*://*.myworkdayjobs.com/*",
+    "*://*.wd3.myworkdayjobs.com/*",
+    "*://*.wd5.myworkdayjobs.com/*",
+    "*://*.workday.com/*",
+    "*://*.greenhouse.io/*",
+    "*://*.lever.co/*",
+    "*://*.smartrecruiters.com/*",
+    "*://*.taleo.net/*",
+    "*://*.icims.com/*",
+    "http://localhost:8000/*"
+  ],
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Smart Job Assistant"
+  },
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self';"
+  },
+
+  "web_accessible_resources": [
+    {
+      "resources": ["contentScript.js"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}

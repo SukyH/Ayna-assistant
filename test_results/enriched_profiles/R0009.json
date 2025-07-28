@@ -1,0 +1,68 @@
+{
+  "resume_id": "R0009",
+  "content": "CARPENTER APPRENTICE\nProfessional Summary\nFormer construction and carpentry worker committed to high-quality workmanship and safe environments. Over 4 years of hands-on experience\nworking with remodeling projects in residential and commercial construction. Dedicated work ethic and exceptional attendance record. I am\nmotivated to learn new trades and skills. Interested in growing career and fostering leadership capabilities. Professional Construction Laborer with\nexcellent interpersonal skills. Works in timely and efficient manner to see tough jobs through to completion.\nSkills\nCabinetry\nMaterial prepping\nConstruction drawing interpretation\nCarpentry techniques\nOral and written communication\nMaterials handling\nNew construction and renovation\nDrywalling\nSafety and compliance\nWork History\nCarpenter Apprentice\n \n, \n10/2017\n \nto \n09/2019\n \nCompany Name\n \n\u00e2\u20ac\u201c \nCity\n \n, \nState\n \nAssisted with movement of materials and equipment to job sites\nWorked with master carpenters to install decks for both residential and commercial customers\nInstalled and repaired woodwork, millwork and cabinetry under supervision of master carpenter\nKept job site cleaned up properly and all debris disposed of in respective containers\nInterpreted specifications and construction drawings to understand tasks necessary to complete each job\nAccepted feedback from foreman and journeyman carpenter, implementing suggestions into later work\nObserved all OSHA and corporate safety regulations and procedures\nLed variety of projects from start to finish, including garages, residential homes and additions\nRepaired roofs and flooring and remodeled bathrooms and kitchens to complete projects in satisfactory time\nEffectively used all fasteners such as nails, screws, pneumatic nailing systems, concrete anchors, powder-actuated fasteners and framing\nconnectors\nProactively managed projects to obtain 100% customer satisfaction for all custom work\nInstalled interior finish items, including wall protection, doors and hardware, toilet accessories, cubicle curtain tracks and TV brackets\nInstalled drywall, ceilings, trim and fabricated replacement trim and moldings\nConstruction Worker\n \n, \n08/2016\n \nto \n09/2017\n \nCompany Name\n \n\u00e2\u20ac\u201c \nCity\n \n, \nState\n \nSupported customer preferences with basic carpentry work such as installing wooden floors and crown molding\nConsulted with customers to understand desires and help each owner meet individual property objectives\nGathered and disposed of work site debris to remove safety hazards and boost team productivity\nMonitored materials inventory and requested items for restocking for each job\nLoaded and unloaded building materials used for construction\nSafely operated mowers, chain saws, electric clippers, sod cutters and pruning saws to clear construction sites, roadbeds and access roads\nErected and removed temporary structures such as trench liners and scaffolding to meet team needs\nEnhanced team efficiency and multitasking abilities by effectively using hand tools, power tools and equipment\nGathered waste and trash from job sites for placement in refuse containers to keep job sites clean and organized\nEducation\nHigh School Diploma\n \n: \n04/2010\n \nBuffalo High School\n \n- \nCity\n \n, \nState\n \nCSHO (Certified Safety & Health Official)\n \n, \n01/2020\n \nTEEX\n \n- \nCity\n \nSkills\nCabinetry\nMaterial prepping\nConstruction drawing interpretation\nCarpentry techniques\nOral and written communication\nMaterials handling\nNew construction and renovation\nDrywalling\nSafety and compliance\nWork History\nCarpenter Apprentice\n \n, \n10/2017\n \nto \n09/2019\n \nCompany Name\n \n\u00e2\u20ac\u201c \nCity\n \n, \nState\n \nAssisted with movement of materials and equipment to job sites\nWorked with master carpenters to install decks for both residential and commercial customers\nInstalled and repaired woodwork, millwork and cabinetry under supervision of master carpenter\nKept job site cleaned up properly and all debris disposed of in respective containers\nInterpreted specifications and construction drawings to understand tasks necessary to complete each job\nAccepted feedback from foreman and journeyman carpenter, implementing suggestions into later work\nObserved all OSHA and corporate safety regulations and procedures\nLed variety of projects from start to finish, including garages, residential homes and additions\nRepaired roofs and flooring and remodeled bathrooms and kitchens to complete projects in satisfactory time\nEffectively used all fasteners such as nails, screws, pneumatic nailing systems, concrete anchors, powder-actuated fasteners and framing\nconnectors\nProactively managed projects to obtain 100% customer satisfaction for all custom work\nInstalled interior finish items, including wall protection, doors and hardware, toilet accessories, cubicle curtain tracks and TV brackets\nInstalled drywall, ceilings, trim and fabricated replacement trim and moldings\nConstruction Worker\n \n, \n08/2016\n \nto \n09/2017\n \nCompany Name\n \n\u00e2\u20ac\u201c \nCity\n \n, \nState\n \nSupported customer preferences with basic car",
+  "enriched_profile": {
+    "fullName": "John Doe",
+    "email": "",
+    "phone": "",
+    "location": "City, State",
+    "linkedin": "",
+    "github": "",
+    "portfolio": "",
+    "summary": "Former carpentry apprentice with 4+ years of experience in residential and commercial construction. Skilled in carpentry techniques, safety and compliance, and customer satisfaction. Holds a CSHO certification.",
+    "education": [
+      {
+        "school": "Buffalo High School",
+        "degree": "",
+        "field": "",
+        "startDate": "04/2010",
+        "endDate": "",
+        "gpa": ""
+      },
+      {
+        "school": "TEEX",
+        "degree": "",
+        "field": "Safety & Health",
+        "startDate": "",
+        "endDate": "01/2020",
+        "gpa": ""
+      }
+    ],
+    "experience": [
+      {
+        "company": "Company Name",
+        "position": "Carpenter Apprentice",
+        "startDate": "10/2017",
+        "endDate": "09/2019",
+        "description": "Assisted with material and equipment movement, installed decks, repaired woodwork, millwork, and cabinetry, maintained job site cleanliness, and interpreted construction drawings. Led projects and ensured customer satisfaction."
+      },
+      {
+        "company": "Company Name",
+        "position": "Construction Worker",
+        "startDate": "08/2016",
+        "endDate": "09/2017",
+        "description": "Supported customer preferences, consulted with customers, managed materials, operated equipment, and enhanced team efficiency."
+      }
+    ],
+    "projects": [],
+    "skills": [
+      "Cabinetry",
+      "Material prepping",
+      "Construction drawing interpretation",
+      "Carpentry techniques",
+      "Oral and written communication",
+      "Materials handling",
+      "New construction and renovation",
+      "Drywalling",
+      "Safety and compliance"
+    ],
+    "licenses": [
+      {
+        "title": "CSHO",
+        "description": "Certified Safety & Health Official",
+        "issueDate": "",
+        "expiryDate": "01/2020"
+      }
+    ]
+  }
+}

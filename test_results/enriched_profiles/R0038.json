@@ -1,0 +1,64 @@
+{
+  "resume_id": "R0038",
+  "content": "FLORAL DESIGNER\nSummary\nPersonable Customer Service Associate dedicated to providing the highest level of customer service. Outgoing, and efficient with the capacity to\nmulti-task.\nHighlights\nInventory control\u00c2 \nEmployee scheduling\nCash handling and banking\nFloral designer\nOrganized\nPlacing orders in person and over the phone\nCustomer service\nExcellent multi-tasker\nExperience\nJune 2013\nto\nMarch 2016\nCompany Name\n \nCity\n \n, \nState\n \nFloral designer\nDesigned arrangements for wide range of events, which included wedding and corporate parties. I did all of the prep work as well. I kept the\nshowroom clean and maintained properly for display\nJanuary 2011\nto\nDecember 2012\nCompany Name\n \nCity\n \n, \nState\n \nFloral designer\nOpened and closed the store, which included counting cash drawers and making bank deposits. Helped customers select products that best fit\ntheir personal needs, as well as floral designing.\nApril 2008\nto\nAugust 2009\nCompany Name\n \nCity\n \n, \nState\n \nCashier\nCashier main function. In addition helped unloaded trucks, stocked shelves and carried merchandise out on the floor for customers. Marked\nclearance products with updated price tags.\nOctober 2002\nto\nApril 2008\nCompany Name\n \nCity\n \n, \nState\n \nManager/Floral designer\nOpened and closed the store, which included counting cash drawers and making bank deposits.Maintained visually appealing and effective\ndisplays for the entire store. Answered customers' questions and addressed problems and complaints in person and via phone. Helped customers\nselect products that best fit their personal needs, as well as design floral arrangements for the cooler display and for outgoing orders.\nEducation\nNorthwestern College\n \nCity\n \n, \nState\n \n, \nDupage\n \nMedical Assistant",
+  "enriched_profile": {
+    "fullName": "FLORAL DESIGNER",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "linkedin": "",
+    "github": "",
+    "portfolio": "",
+    "summary": "Customer Service Associate with a focus on floral design, dedicated to providing excellent customer service. Skilled in inventory control, employee scheduling, cash handling, and banking.",
+    "education": [
+      {
+        "school": "Northwestern College",
+        "degree": "",
+        "field": "Medical Assistant",
+        "startDate": "",
+        "endDate": "",
+        "gpa": ""
+      }
+    ],
+    "experience": [
+      {
+        "company": "Company Name, City, State",
+        "position": "Manager/Floral designer",
+        "startDate": "October 2002",
+        "endDate": "April 2008",
+        "description": "Managed store operations, including opening and closing, cash handling, and banking. Maintained visually appealing and effective displays. Assisted customers in selecting products and designing floral arrangements."
+      },
+      {
+        "company": "Company Name, City, State",
+        "position": "Cashier",
+        "startDate": "April 2008",
+        "endDate": "August 2009",
+        "description": "Performed cashier duties, unloaded trucks, stocked shelves, and carried merchandise. Marked clearance products with updated price tags."
+      },
+      {
+        "company": "Company Name, City, State",
+        "position": "Floral designer",
+        "startDate": "January 2011",
+        "endDate": "December 2012",
+        "description": "Handled opening and closing of the store, cash handling, and banking. Assisted customers in selecting products and performed floral designing."
+      },
+      {
+        "company": "Company Name, City, State",
+        "position": "Floral designer",
+        "startDate": "June 2013",
+        "endDate": "March 2016",
+        "description": "Designed arrangements for various events, maintained showroom cleanliness, and prepared materials."
+      }
+    ],
+    "projects": [],
+    "skills": [
+      "Floral Design",
+      "Customer Service",
+      "Inventory Control",
+      "Employee Scheduling",
+      "Cash Handling",
+      "Banking"
+    ],
+    "licenses": []
+  }
+}

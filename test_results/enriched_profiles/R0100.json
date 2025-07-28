@@ -1,0 +1,70 @@
+{
+  "resume_id": "R0100",
+  "content": "MICHAEL'S ARTS AND CRAFTS STORE\nSummary\nI am a determined, hard-working individual with the zeal to accomplish any task or challenge I'm given, seeking to exceed expectations. In the next\nyear, I plan to achieve a bachelor's degree in Environmental Technology and Management, and attain a job in the field of sustainable design and\ntechnologies.\nExperience\nMichael's Arts and Crafts Store\n \nMarch 2017\n \nto \nCurrent\n \nCompany Name\n \n\u00ef\u00bc\u200b \nCity\n \n, \nState\n\u00c2 (Capital Blvd. location)\nAid Store Manager, Assistant Store Manager, Full-Time Replenishment Manager in day to day operations and planning; unload and stock\nstore merchandise.\nTrain new Replenishment associates.\nEmployee of the Month (July)\nFebruary 2016\n \nto \nMarch 2017\n \nCompany Name\n \n\u00ef\u00bc\u200b \nCity\n \n, \nState\nProvide customer service on the sales floor, manage day/night-time associates and store operations.\nTrain and assess new associates.\n(Assumed position at Brier Creek, Raleigh, NC location in October 2015)\nJune 2015\n \nto \nFebruary 2016\n \nCompany Name\n \n\u00ef\u00bc\u200b \nCity\n \n, \nState\n(Brier Creek Location)\nSupport Specialist:\nPrepare cash registers, count money, and prepare documentation for the bank deposit.\nManage cashiers in the morning.\nSales Associate/Cashier:\nOffer customer service and efficiently run a cash register.\nKnowledge and Certifications\nArcGIS Program\nWater Quality Testing\nStream Assessment\nTree Inventory\nOSHA 40 Hour HAZWOPER Certification\nEducation and Training\nAssociate of Science\n \n: \nLiberal Arts Science and Mathematics\n \n, \n2015\n \nSUNY Adirondack\n \n\u00ef\u00bc\u200b \nCity\n \n, \nState\nDean's List\nGraduated Cum Laude\nBachelor of Science\n \n: \nEnvironmental Technology and Management\n \n, \n2018\n \nNorth Carolina State University\n \n\u00ef\u00bc\u200b \nCity\n \n, \nState\nProjects: Richard R. Lee Estate (Clayton, NC) Phase III Environmental Site Assessment\nSkills\nCustomer Service\nManagement\nInventory Management\nCommunication",
+  "enriched_profile": {
+    "fullName": "Michael",
+    "email": "",
+    "phone": "",
+    "location": "City, State",
+    "linkedin": "",
+    "github": "",
+    "portfolio": "",
+    "summary": "Determined and hard-working individual pursuing a Bachelor's degree in Environmental Technology and Management. Seeking a job in sustainable design and technologies.",
+    "education": [
+      {
+        "school": "SUNY Adirondack",
+        "degree": "Associate of Science",
+        "field": "Liberal Arts Science and Mathematics",
+        "startDate": "2015",
+        "endDate": "",
+        "gpa": ""
+      },
+      {
+        "school": "North Carolina State University",
+        "degree": "Bachelor of Science",
+        "field": "Environmental Technology and Management",
+        "startDate": "",
+        "endDate": "2018",
+        "gpa": ""
+      }
+    ],
+    "experience": [
+      {
+        "company": "Michael's Arts and Crafts Store (Capital Blvd. location)",
+        "position": "Aid Store Manager / Assistant Store Manager / Full-Time Replenishment Manager",
+        "startDate": "March 2017",
+        "endDate": "Current",
+        "description": "Aid Store Manager, Assistant Store Manager, and Full-Time Replenishment Manager in day-to-day operations and planning; unload and stock store merchandise. Train new Replenishment associates. Employee of the Month (July)."
+      },
+      {
+        "company": "Michael's Arts and Crafts Store (Brier Creek, Raleigh, NC location)",
+        "position": "Sales Associate / Cashier / Support Specialist",
+        "startDate": "June 2015",
+        "endDate": "February 2016",
+        "description": "Provide customer service on the sales floor, manage day/night-time associates and store operations. Train and assess new associates."
+      }
+    ],
+    "projects": [
+      {
+        "name": "Richard R. Lee Estate (Clayton, NC) Phase III Environmental Site Assessment",
+        "techStack": "",
+        "description": "",
+        "link": ""
+      }
+    ],
+    "skills": [
+      "Customer Service",
+      "Management",
+      "Inventory Management",
+      "Communication"
+    ],
+    "licenses": [
+      {
+        "title": "OSHA 40 Hour HAZWOPER Certification",
+        "description": "",
+        "issueDate": "",
+        "expiryDate": ""
+      }
+    ]
+  }
+}

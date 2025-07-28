@@ -1,0 +1,89 @@
+{
+  "resume_id": "R0054",
+  "content": "SALES ASSOCIATE\nExperience\n08/2014\n \nto \nCurrent\nSales Associate\n \nCompany Name\n \n\u00ef\u00bc\u200b \nCity\n \n, \nState\nGreet customers and ascertain what each customer wants or needs.\nDescribe merchandise and explain use, operation, and care of merchandise to customers.\nCompute sales prices, total purchases and receive and process cash or credit payment.\nMaintain knowledge of current sales and promotions, policies regarding payment and exchanges, and security practices.\nInventory stock and requisition new stock.\nTicket, arrange and display merchandise to promote sales.\n09/2013\n \nto \n07/2014\nProduction Intern\n \nCompany Name\n \n\u00ef\u00bc\u200b \nCity\n \n, \nState\nDeveloped and maintained overall production schedules.\nArranged rehearsal space, audition space, production meetings.\nIdentified and obtained property requirements for the production based on set design and production script.\nWorked with production cast to encourage positive performance results.\n07/2012\n \nto \n08/2012\nFashion Intern\n \nCompany Name\n \n\u00ef\u00bc\u200b \nCity\n \n, \nState\nUse traditional or digital cameras, along with a variety of equipment such as tripods, filters, and flash attachments.\nScan photographs into computers for editing, storage, and electronic transmission.\nWork closely with photographers, fashion coordinators, directors, producers, stylists, make-up artists, other models, and clients to produce\nthe desired looks, and to finish photo shoots on schedule.\nVisit textile showrooms to keep up-to-date on the latest fabrics.\n09/2011\n \nto \n02/2012\nMuseum Intern\n \nCompany Name\n \n\u00ef\u00bc\u200b \nCity\n \n, \nState\nDescribe tour points of interest to group members, and respond to questions.\nProvide directions and other pertinent information to visitors.\nResearch various topics, including site history, environmental conditions, and clients' skills and abilities to plan.\nappropriate expeditions, instruction, and commentary.\nEducation\nDec 2016\nAssociates\n \nBorough of Manhattan Community College\n \n\u00ef\u00bc\u200b \nCity\n \n, \nState\nJun 2013\nHigh School Diploma\n \nTalent Unlimited High School\n \n\u00ef\u00bc\u200b \nCity\n \n, \nState\nSkills\nphoto, credit, clients, customer service, digital cameras, editing, fashion, flash, instruction, Inventory, meetings, policies, Research, sales, set design,\nscript, transmission",
+  "enriched_profile": {
+    "fullName": "Michelle Smith",
+    "email": "",
+    "phone": "",
+    "location": "City, State",
+    "linkedin": "",
+    "github": "",
+    "portfolio": "",
+    "summary": "Experienced sales associate with a background in fashion, production, and museum work. Skilled in customer service, inventory management, and digital photography.",
+    "education": [
+      {
+        "school": "Borough of Manhattan Community College",
+        "degree": "Associates",
+        "field": "",
+        "startDate": "Dec 2016",
+        "endDate": "",
+        "gpa": ""
+      },
+      {
+        "school": "Talent Unlimited High School",
+        "degree": "High School Diploma",
+        "field": "",
+        "startDate": "Jun 2013",
+        "endDate": "",
+        "gpa": ""
+      }
+    ],
+    "experience": [
+      {
+        "company": "Company Name",
+        "position": "Sales Associate",
+        "startDate": "08/2014",
+        "endDate": "Current",
+        "description": "Greet customers and ascertain what each customer wants or needs. Describe merchandise and explain use, operation, and care of merchandise to customers. Compute sales prices, total purchases and receive and process cash or credit payment. Maintain knowledge of current sales and promotions, policies regarding payment and exchanges, and security practices. Inventory stock and requisition new stock. Ticket, arrange and display merchandise to promote sales."
+      },
+      {
+        "company": "Company Name",
+        "position": "Production Intern",
+        "startDate": "09/2013",
+        "endDate": "07/2014",
+        "description": "Developed and maintained overall production schedules. Arranged rehearsal space, audition space, production meetings. Identified and obtained property requirements for the production based on set design and production script. Worked with production cast to encourage positive performance results."
+      },
+      {
+        "company": "Company Name",
+        "position": "Fashion Intern",
+        "startDate": "07/2012",
+        "endDate": "08/2012",
+        "description": "Use traditional or digital cameras, along with a variety of equipment such as tripods, filters, and flash attachments. Scan photographs into computers for editing, storage, and electronic transmission. Work closely with photographers, fashion coordinators, directors, producers, stylists, make-up artists, other models, and clients to produce the desired looks, and to finish photo shoots on schedule. Visit textile showrooms to keep up-to-date on the latest fabrics."
+      }
+    ],
+    "projects": [
+      {
+        "name": "",
+        "techStack": "",
+        "description": "",
+        "link": ""
+      }
+    ],
+    "skills": [
+      "photo",
+      "credit",
+      "clients",
+      "customer service",
+      "digital cameras",
+      "editing",
+      "fashion",
+      "flash",
+      "inventory",
+      "meetings",
+      "policies",
+      "research",
+      "sales",
+      "set design",
+      "script",
+      "transmission"
+    ],
+    "licenses": [
+      {
+        "title": "",
+        "description": "",
+        "issueDate": "",
+        "expiryDate": ""
+      }
+    ]
+  }
+}

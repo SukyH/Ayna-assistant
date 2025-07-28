@@ -1,0 +1,76 @@
+{
+  "resume_id": "R0014",
+  "content": "KEY HOLDER\nSummary\nHighly organized efficient in multitasking environments; able to prioritize effectively to accomplish objectives with creativity, enthusiasm and humor.\nResourceful and flexible, able to adapt to changing priorities and maintain a positive attitude with strong work ethic.\nHighlights\nMicrosoft Outlook, Word and Excel \nSkilled trainer MS Office expert \nCustomer-focused Strong interpersonal skills \nEffective workflow\nmanagement Accomplished manager \nGoal-oriented Positive and upbeat\nExperience\nKey Holder\n \n08/2012\n \nto \nCurrent\n \nCompany Name\n \nCity\n \n, \nState\nTrained all incoming sales team members.\nPromptly resolved all customer requests, questions and complaints.\nMaintained knowledge of current sales and promotions, policies regarding payment and exchanges and security practices.\nAssumed ownership over team productivity and managed work flow to meet or exceed quality service goals.\nTrained staff on operating procedures and company services.\nPrepared for opening and closing of the store.\nCollections Specialist\n \n02/2010\n \nto \n04/2011\n \nCompany Name\n \nCity\n \n, \nState\nEffectively managed a high-volume of inbound and outbound customer calls.\nEvaluated and initiated alternatives for resolving account balances.\nResponded to customer inquires regarding account status.\nCoordinated collection activities for delinquent accounts.\nResolved customer situations calmly and courteously.\nAccurately documented, researched and resolved customer service issues.\nMet or exceeded service and quality standards every review period.\nSales Associate\n \n07/2008\n \nto \n04/2009\n \nCity\n \n, \nState\nGreeted customers in a timely fashion while quickly determining their needs.\nMaintained knowledge of current sales and promotions, policies regarding payment and exchanges and security practices.\nContributed to team success by exceeding team sales goals.\nOperate cash register and receives payment from customer in cash or debit Participated in physical inventory counts.\nEducation\nCertificate: Current Temple Real Estate school\n \n: \nMarketing\n \n2008\n \nVirginia Union University\n \nCity\n \n, \nState\n \nMarketing\nSkills\ncash register, closing, Strong interpersonal skills, customer service, debit, fashion, inventory, Excel, MS Office, Microsoft Outlook, Word,\npolicies, quality, Real Estate, sales, trainer, workflow",
+  "enriched_profile": {
+    "fullName": "KEY HOLDER",
+    "email": "",
+    "phone": "",
+    "location": "City, State",
+    "linkedin": "",
+    "github": "",
+    "portfolio": "",
+    "summary": "Highly organized and efficient in multitasking environments; able to prioritize effectively to accomplish objectives with creativity, enthusiasm and humor. Resourceful and flexible, able to adapt to changing priorities and maintain a positive attitude with strong work ethic.",
+    "education": [
+      {
+        "school": "Temple Real Estate school",
+        "degree": "Certificate",
+        "field": "Marketing",
+        "startDate": "2008",
+        "endDate": "",
+        "gpa": ""
+      },
+      {
+        "school": "Virginia Union University",
+        "degree": "",
+        "field": "Marketing",
+        "startDate": "",
+        "endDate": "2008",
+        "gpa": ""
+      }
+    ],
+    "experience": [
+      {
+        "company": "Company Name",
+        "position": "Key Holder",
+        "startDate": "08/2012",
+        "endDate": "Present",
+        "description": "Trained all incoming sales team members. Promptly resolved all customer requests, questions and complaints. Maintained knowledge of current sales and promotions, policies regarding payment and exchanges and security practices. Assumed ownership over team productivity and managed work flow to meet or exceed quality service goals. Trained staff on operating procedures and company services. Prepared for opening and closing of the store."
+      },
+      {
+        "company": "Company Name",
+        "position": "Collections Specialist",
+        "startDate": "02/2010",
+        "endDate": "04/2011",
+        "description": "Effectively managed a high-volume of inbound and outbound customer calls. Evaluated and initiated alternatives for resolving account balances. Responded to customer inquires regarding account status. Coordinated collection activities for delinquent accounts. Resolved customer situations calmly and courteously. Accurately documented, researched and resolved customer service issues. Met or exceeded service and quality standards every review period."
+      },
+      {
+        "company": "",
+        "position": "Sales Associate",
+        "startDate": "07/2008",
+        "endDate": "04/2009",
+        "description": "Greeted customers in a timely fashion while quickly determining their needs. Maintained knowledge of current sales and promotions, policies regarding payment and exchanges and security practices. Contributed to team success by exceeding team sales goals. Operate cash register and receives payment from customer in cash or debit. Participated in physical inventory counts."
+      }
+    ],
+    "projects": [],
+    "skills": [
+      "cash register",
+      "closing",
+      "Strong interpersonal skills",
+      "customer service",
+      "debit",
+      "fashion",
+      "inventory",
+      "Excel",
+      "MS Office",
+      "Microsoft Outlook",
+      "Word",
+      "policies",
+      "quality",
+      "Real Estate",
+      "sales",
+      "trainer",
+      "workflow"
+    ],
+    "licenses": []
+  }
+}

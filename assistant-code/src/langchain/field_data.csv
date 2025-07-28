@@ -1,0 +1,15 @@
+label,category
+First Name,first_name
+Last Name,last_name
+Email Address,email
+Phone Number,phone
+Mobile,phone
+Street Address,address_line1
+City,city
+State,state
+Zip Code,zip
+Country,country
+Current Employer,current_company
+Current Job Title,current_title
+School,education_school
+Degree,education_degree

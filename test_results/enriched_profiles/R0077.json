@@ -1,0 +1,75 @@
+{
+  "resume_id": "R0077",
+  "content": "SALES ASSOCIATE\nSummary\nDependable, hard-worker\u00c2 with over \nseven\n \nyears of experience in\n \u00c2 maintenance work.\nSkills\nDependable independent worker\nCustomer service skills\nGood at following instructions\nCustomer service experience\nSolid communication skills\nStrong work ethic\nExperience\nSales Associate\n \nAugust 2013\n \nto \nDecember 2013\n \nCompany Name\n \n\u00ef\u00bc\u200b \nCity\n \n, \nState\nResponsibilities:\n\u00e2\u20ac\u00a8Make the customer happy\u00e2\u20ac\u00a8\nGreat customer services\u00e2\u20ac\u00a8\nPerform assigned/unassigned tasks Face-front/Organize shelves and bays\nSkills Used:\n\u00e2\u20ac\u00a8Good oral/communication skills\nAble to lift heavy objects\nALWAYS put the customer first\u00c2 \nLawn Care Technician\n \nMay 2013\n \nto \nSeptember 2013\n \nCompany Name\n \n\u00ef\u00bc\u200b \nCity\n \n, \nState\nResponsibilities: \n\u00e2\u20ac\u00a8\nLawn Mowing- Edging, Weed whipping, Blowing grass and debris off pavement and structures,\u00e2\u20ac\u00a8and 20 in. lawn mower was primarily my\nresponsibilities.\nLearned how to use the 36, 42 in. mowers and rider.\nGardening/Landscaping- Maintain gardens by cultivating and weeding, and mulching.\nSnow Plowing-Snow blow/shovel driveways and sidewalks. Salt afterwards. \u00e2\u20ac\u00a8Preform tasks quickly with minimal mistakes\nSkills Used:\n\u00e2\u20ac\u00a8Learned how to use plenty of mowing/landscaping equipment (36,42 inch blades, rider etc.)\u00c2 \nHandyman\n \nJanuary 2009\n \nto \nJuly 2016\n \nCompany Name\n \n\u00ef\u00bc\u200b \nCity\n \n, \nState\nHandyman Services including-\nWindow/gutter cleaning\nPower washing/staining decks\nPower washing houses\nPainting Repairing (from little tasks like screens and windows to larger tasks like a basement.)\nSnow Plowing.\nEducation\nHigh School Diploma\n \n: \n2011\n \nAvondale High School\n \n\u00ef\u00bc\u200b \nCity\n \n, \nState\nLiberal Arts\n \n, \n2013\n \nClackamas Community College\n \n\u00ef\u00bc\u200b \nCity\n \n, \nState\n \nLiberal Arts\nLiberal Arts\n \n, \n2016\n \nOakland Community College\n \n\u00ef\u00bc\u200b \nCity\n \n, \nState\nPersonal Information\nHard worker and fast learner. Always able to compete a task on time and with satisfaction.\nSkills\nJack of all trades. Can perform all typesof handiwork and any task necessary.\u00c2 ",
+  "enriched_profile": {
+    "fullName": "John Doe",
+    "email": "",
+    "phone": "",
+    "location": "City, State",
+    "linkedin": "",
+    "github": "",
+    "portfolio": "",
+    "summary": "Dependable and hard-working professional with over seven years of experience in customer service and maintenance work.",
+    "education": [
+      {
+        "school": "Avondale High School",
+        "degree": "High School Diploma",
+        "field": "",
+        "startDate": "2009",
+        "endDate": "2011",
+        "gpa": ""
+      },
+      {
+        "school": "Clackamas Community College",
+        "degree": "",
+        "field": "Liberal Arts",
+        "startDate": "2011",
+        "endDate": "2013",
+        "gpa": ""
+      },
+      {
+        "school": "Oakland Community College",
+        "degree": "",
+        "field": "Liberal Arts",
+        "startDate": "2013",
+        "endDate": "2016",
+        "gpa": ""
+      }
+    ],
+    "experience": [
+      {
+        "company": "Company Name",
+        "position": "Sales Associate",
+        "startDate": "August 2013",
+        "endDate": "December 2013",
+        "description": "Responsibilities included providing great customer service, performing assigned/unassigned tasks, and organizing shelves and bays."
+      },
+      {
+        "company": "Company Name",
+        "position": "Lawn Care Technician",
+        "startDate": "May 2013",
+        "endDate": "September 2013",
+        "description": "Performed lawn mowing, edging, weed whipping, blowing grass and debris off pavement and structures, and snow plowing."
+      },
+      {
+        "company": "Company Name",
+        "position": "Handyman",
+        "startDate": "January 2009",
+        "endDate": "July 2016",
+        "description": "Provided handyman services including window/gutter cleaning, power washing/staining decks, painting repair, and snow plowing."
+      }
+    ],
+    "projects": [],
+    "skills": [
+      "Dependable",
+      "Hard-working",
+      "Customer service skills",
+      "Good at following instructions",
+      "Solid communication skills",
+      "Strong work ethic",
+      "Handyman skills",
+      "Jack of all trades"
+    ],
+    "licenses": []
+  }
+}

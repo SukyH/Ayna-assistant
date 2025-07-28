@@ -1,0 +1,67 @@
+{
+  "resume_id": "R0104",
+  "content": "SOFTLINES MANAGER\nSummary\nExperienced Retail Sales Manager, known for hiring and training solid, long-term staff, adept at problem solving, who posses a strong background\nin Visual Merchandising.\nVisual Merchandise Experience\nSoftlines Manager\n \nMarch 2011\n \nto \nCurrent\n \nCompany Name\n \n\u00ef\u00bc\u200b \nCity\n \n, \nState\nManaged the Sales performance of the Footwear and Apparel associates to meet sales and margin goals.\nImplemented game plans in the Apparel and Footwear Departments to maximize sales.\nInterviewed, hired, and trained essential staff.\nGranted title of \"Store Human Resource Adviser\" to issue appropriate counceling to all store associates.\nApparel Sales Leader\n \nDecember 2006\n \nto \nMarch 2011\n \nCompany Name\n \n\u00ef\u00bc\u200b \nCity\n \n, \nState\nAssisted the store management team with general supervision in the store in accordance with company policies and procedures.\nImplemented merchandise presentation standards and signage of the apparel department to meet company standards.\nMaximized profits by supporting company standards of selling and customer service.\nEducated new staff on merchandising and selling standards of Dick's Sporting Goods.\nNike Brand Coordinator\n \nOctober 2005\n \nto \nDecember 2006\n \nCompany Name\n \n\u00ef\u00bc\u200b \nCity\n \n, \nState\nEncompassed the Nike brand image, ensuring the highest standards of visual presentation at all times.\nIntroduced new product lines by highlighting features and benefits.\nCoached and inspired store associates to maintain the Nike retail presence.\nIncreased profitability of sales on an average of 4% yearly.\nEducation\nHigh School Diploma\n \n: \nGeneral Studies\n \n, \n2000\n \nMount Everett Regional High School\n \n\u00ef\u00bc\u200b \nCity\n \n, \nState\n \n, \nUSA\nProfessional Recognitions\nShrink Defender of the Month \n\u00c2 \nAugust 2008, July 2009, December 2010, February 2011, April 2014\n \n\u00c2 \nEnforcing company policies and procedures to ensure the protection of company assets.\nSkills\nMaster at executing and enhancing Game-plans\nProficient in opening and closing store procedures, including cash office execution.",
+  "enriched_profile": {
+    "fullName": "Experienced Retail Sales Manager",
+    "email": "",
+    "phone": "",
+    "location": "City, State",
+    "linkedin": "",
+    "github": "",
+    "portfolio": "",
+    "summary": "Retail Sales Manager with visual merchandising experience, known for hiring and training long-term staff, and meeting sales and margin goals.",
+    "education": [
+      {
+        "school": "Mount Everett Regional High School",
+        "degree": "",
+        "field": "General Studies",
+        "startDate": "2000",
+        "endDate": "",
+        "gpa": ""
+      }
+    ],
+    "experience": [
+      {
+        "company": "Company Name",
+        "position": "Softlines Manager",
+        "startDate": "March 2011",
+        "endDate": "Present",
+        "description": "Managed the Sales performance of the Footwear and Apparel associates to meet sales and margin goals. Implemented game plans in the Apparel and Footwear Departments to maximize sales. Interviewed, hired, and trained essential staff. Granted title of 'Store Human Resource Adviser' to issue appropriate counseling to all store associates."
+      },
+      {
+        "company": "Company Name",
+        "position": "Apparel Sales Leader",
+        "startDate": "December 2006",
+        "endDate": "March 2011",
+        "description": "Assisted the store management team with general supervision in the store in accordance with company policies and procedures. Implemented merchandise presentation standards and signage of the apparel department to meet company standards. Maximized profits by supporting company standards of selling and customer service. Educated new staff on merchandising and selling standards of Dick's Sporting Goods."
+      },
+      {
+        "company": "Company Name",
+        "position": "Nike Brand Coordinator",
+        "startDate": "October 2005",
+        "endDate": "December 2006",
+        "description": "Encompassed the Nike brand image, ensuring the highest standards of visual presentation at all times. Introduced new product lines by highlighting features and benefits. Coached and inspired store associates to maintain the Nike retail presence. Increased profitability of sales on an average of 4% yearly."
+      }
+    ],
+    "projects": [
+      {
+        "name": "",
+        "techStack": "",
+        "description": "",
+        "link": ""
+      }
+    ],
+    "skills": [
+      "Master at executing and enhancing Game-plans",
+      "Proficient in opening and closing store procedures, including cash office execution"
+    ],
+    "licenses": [
+      {
+        "title": "Shrink Defender",
+        "description": "Enforcing company policies and procedures to ensure the protection of company assets",
+        "issueDate": "August 2008, July 2009, December 2010, February 2011, April 2014",
+        "expiryDate": ""
+      }
+    ]
+  }
+}

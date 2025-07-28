@@ -1,0 +1,65 @@
+{
+  "resume_id": "R0033",
+  "content": "LINE SERVICE TECHNICIAN\nSummary\nI currently have 42 flying hours. I\u00c2 am a Sophomore student at Southwestern Illinois College in the Aviation Pilot Program and I am very\ninterested in the aviation world. I have wanted to be a pilot and be around airports and planes since I was eight years old. I am working on my\nPrivate Pilot Certificate at Ideal Aviation. I also work at Ideal Aviation as a Line Service Technician.\u00c2 \nSkills\nGreat People Skills\u00c2 \nMicrosoft Office\u00c2 \nFueling Aircrafts\nAirport Ramp Knowledge\nPrivate Pilot Knowledge\u00c2 \nWorked at two Airports\nAircraft Knowledge\nInvoice Knowledge\nExperience\n03/2017\n \nto \nCurrent\nLine Service Technician \nCompany Name\n \n\u00ef\u00bc\u200b \nCity\n \n, \nState\nFuel Aircraft from Cessna to Gulfstream as well as helicopters.\u00c2 \nMarshaling in Aircraft.\nPilot and Passenger communication.\nTowing and Pushing aircraft.\nAircraft Cleaning.\nAircraft Management.\u00c2 \n07/2016\n \nto \n03/2017\nRamp Agent\n \nCompany Name\n \n\u00ef\u00bc\u200b \nCity\n \n, \nState\nFueling of F-18, T-38, Boeing 737, E-2.\nMarshaling of inbound and outbound aircraft.\nBaggage for Allegiant Airlines.\nPushback Operator for Allegiant Airlines.\nUse of Unicom and Deicing Military and Commercial Aircraft.\nLavatory Service \nUse and Ground Power Unit.\nPilot Communications.\n12/2015\n \nto \n05/2016\nTeam Member\n \nCompany Name\n \n\u00ef\u00bc\u200b \nCity\n \n, \nState\nI was in charge of running the computer system which entailed cash register and \nreturns.\nI was responsible for helping customers with problems and showing them where \ncertain things were in the store.\nI was taught to use self thinking to solve their problems.\nEveryday I worked I had to load multiple bags of 50 pounds of animal feed into the \nstore.\nThis job taught me customer service and organization.\n04/2015\n \nto \n06/2016\nEvent Staff\n \nCompany Name\n \n\u00ef\u00bc\u200b \nCity\n \n, \nState\nI was in charge of setting up for weddings, birthday parties, bridal showers, baby \nshowers, etc.\nI was in charge of driving customers in our six-seater gas-powered golf cart as well \nas our four-seater gas-powered golf cart and was also\nin charge of using the \nfour-wheeler to pull trailers.\nI was in charge of setting up chairs and tables which required heavy lifting.\nThis job entailed me working long days and long nights.\nI was called on by the owners for a couple of landscaping jobs around the property.\nThis job required good people skills and time management.\u00c2 \nEducation and Training\n2018\nAssociate of Applied Science\n \n: \nAviation Pilot Training\n \nSouthwestern Illinois College\n \n\u00ef\u00bc\u200b \nCity\n \n, \nState\n \n, \nUSA\n \nI am currently enrolled in SWIC's\nAviation Pilot Program. I will be completeing two years and then transferring to fulfill my bachelors in Aviation Management.\nMay 2016\nHigh School Diploma\n \nFREEBURG COMMUNITY HIGH SCHOOL\n \n\u00ef\u00bc\u200b \nCity\n \n, \nState\n \n, \nUnited States\nPersonal Information\nI am currently a 19 year old that keeps up with work and school. I currently work around 25 to 30 hours a week as well as find time to fly and\nfinish up my private pilots license. I live in Freeburg, Illinois which is about 50 minutes from St. Louis Lambert International. I plan to be a Pilot in\nthe commercial world after I finish all of my ratings.\u00c2 \nSkills\nCustomer Service Experience, Leadership, Team leadership, Outlook, Fast learner, Verbal Communication, Aviation Knowledge",
+  "enriched_profile": {
+    "fullName": "John Doe",
+    "email": "",
+    "phone": "",
+    "location": "Freeburg, Illinois",
+    "linkedin": "",
+    "github": "",
+    "portfolio": "",
+    "summary": "Sophomore student at Southwestern Illinois College in the Aviation Pilot Program, working on a Private Pilot Certificate with 42 flying hours. Currently working as a Line Service Technician at Ideal Aviation, with experience in fueling various aircrafts, marshaling, and aircraft management.",
+    "education": [
+      {
+        "school": "Southwestern Illinois College",
+        "degree": "Associate of Applied Science",
+        "field": "Aviation Pilot Training",
+        "startDate": "2018",
+        "endDate": "",
+        "gpa": ""
+      },
+      {
+        "school": "Freeburg Community High School",
+        "degree": "High School Diploma",
+        "field": "",
+        "startDate": "May 2016",
+        "endDate": "",
+        "gpa": ""
+      }
+    ],
+    "experience": [
+      {
+        "company": "Ideal Aviation",
+        "position": "Line Service Technician",
+        "startDate": "03/2017",
+        "endDate": "Current",
+        "description": "Fuel Aircraft from Cessna to Gulfstream as well as helicopters. Marshaling in Aircraft. Pilot and Passenger communication. Towing and Pushing aircraft. Aircraft Cleaning. Aircraft Management."
+      },
+      {
+        "company": "Company Name",
+        "position": "Ramp Agent",
+        "startDate": "07/2016",
+        "endDate": "03/2017",
+        "description": "Fueling of F-18, T-38, Boeing 737, E-2. Marshaling of inbound and outbound aircraft. Baggage for Allegiant Airlines. Pushback Operator for Allegiant Airlines. Use of Unicom and Deicing Military and Commercial Aircraft. Lavatory Service. Use and Ground Power Unit. Pilot Communications."
+      }
+    ],
+    "projects": [],
+    "skills": [
+      "Customer Service Experience",
+      "Leadership",
+      "Team leadership",
+      "Outlook",
+      "Fast learner",
+      "Verbal Communication",
+      "Aviation Knowledge",
+      "Microsoft Office",
+      "Great People Skills",
+      "Airport Ramp Knowledge",
+      "Private Pilot Knowledge",
+      "Aircraft Knowledge",
+      "Invoice Knowledge"
+    ],
+    "licenses": []
+  }
+}
